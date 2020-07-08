@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+venv/
+any_data.ipynb
+livias_data.ipynb
+livias_data.xlsx
+data_docs/*
+!data_docs/.gitkeep
